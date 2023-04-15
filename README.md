@@ -1,44 +1,56 @@
 # London Bike Rides
 
-## En este proyecto se emplea Python, el IDE VsCode y Tableau.
+## This project uses Python, the VsCode IDE and Tableau.
 
 ### Dataset: https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
 ![FirstGif](https://user-images.githubusercontent.com/107339963/232176114-30b86c11-c608-4a08-901e-58e9678dc9c8.gif)
 
 
-El archivo .ipynb donde puedes ver el proceso de extración, limpieza y preparación de datos se encuentra subido en este repositorio.
+The .ipynb file where you can see the process of extracting, cleaning and preparing data is uploaded to this repository.
 
-Tomar en cuenta lo siguiente:
+#### Take into account the following:
 
-La libreria zipfile no necesita instalarse en versiones de python 3.7 a más, viene por defecto:
+The zipfile library does not need to be installed on python versions 3.7 or more, it comes by default:
 
 ![Secondgif](https://user-images.githubusercontent.com/107339963/232176420-1384a2f1-0831-490b-b7d1-d34365a4b117.gif)
 
-### Respecto a kaggle:
+### Regarding kaggle:
 
-#### Probablemente te salga el siguiente error al importar kaggle, apesar de que lo instalaste con "pip install kaggle":
+####  You probably get the following error when importing kaggle, even though you installed it with "pip install kaggle":
 
 ![Fourgif](https://user-images.githubusercontent.com/107339963/232176762-f882915e-9af3-4b48-b3eb-4d4f5776b0c6.gif)
 
-#### Que pasa? Bueno al ejecutar la importación, busca automaticamente tu API(archivo json) en la ruta mostrada:
+####What's going on? Well when executing the import, automatically search for your API (json file) in the displayed path:
 
 ![image](https://user-images.githubusercontent.com/107339963/232176912-061e9160-25a0-446c-adff-1c6eaea03b02.png)
 
-#### Esta api se encuentra en tu cuenta de Kaggle, y deberas extraerla, mira como:
+#### This api is in your Kaggle account, and you should extract it, see how:
 
 ![Treegif](https://user-images.githubusercontent.com/107339963/232176954-fdf994c5-c9a2-47d3-aaeb-42e43b71dd81.gif)
 
-#### Luego debes colocar el archivo .json en la ruta que te muestra el error, y listo:
+####  Then you must place the .json file in the path that shows you the error, and voila:
 
 ![Fivegif](https://user-images.githubusercontent.com/107339963/232176990-d71288a5-2c89-498b-92b8-1cd0b5d8aa15.gif)
 
-### Ahora todo esta listo! Empieza este proyecto para tu portfolio!
+### Now everything is ready! Start this project for your portfolio!
 
 
-Desarrollo de Dashboard en Tableau: 
+Dashboard development in Tableau:
 
 https://www.youtube.com/watch?v=nl9eZl1IOKI&t=385s&ab_channel=DataWithMo
+
+<a href="https://www.instagram.com/angelocastilloperz/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/AngeloCasell">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/castilloperz/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
 
 
 
