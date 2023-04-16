@@ -29,7 +29,7 @@ The zipfile library does not need to be installed on python versions 3.7 or more
 
 ![Treegif](https://user-images.githubusercontent.com/107339963/232176954-fdf994c5-c9a2-47d3-aaeb-42e43b71dd81.gif)
 
-####  Then you must place the .json file in the path that shows you the error, and voila:
+####  Then you must place the .json file in the path that shows you the error, and that's it:
 
 ![Fivegif](https://user-images.githubusercontent.com/107339963/232176990-d71288a5-2c89-498b-92b8-1cd0b5d8aa15.gif)
 
