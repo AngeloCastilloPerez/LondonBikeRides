@@ -35,6 +35,9 @@ The zipfile library does not need to be installed on python versions 3.7 or more
 
 ### Now everything is ready! Start this project for your portfolio!
 
+#### Dashboard in Tableau:
+
+https://public.tableau.com/app/profile/angelo.jeffrey.castillo.p.rez/viz/LondonBikeRidesProject_16815107362750/Dashboard1
 
 Dashboard development in Tableau:
 
